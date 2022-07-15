@@ -1,0 +1,159 @@
+body{
+    background-color: bisque;
+}
+
+.tech{
+    border: 2px solid red;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: auto;
+    /* height: 30px; */
+    background-color: tomato;
+}
+
+.sos{
+    display: inline-flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    margin-left: 5px;
+    font-weight: bolder;
+    font-style: italic;
+    color: cadetblue;
+    font-size: large;
+}
+
+.sos:hover{
+    background-color:aqua ;
+    color: brown;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.tot{
+    float:right;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    font-style: italic;
+    color: cadetblue;
+}
+
+.tot:hover{
+    background-color: yellowgreen;
+    color: yellow;
+    border-radius: 5px;
+}
+
+.such{
+    margin-top: 20px;
+    border: 2px solid red;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    height: 40px;
+}
+
+.sos{
+    /* float: right; */
+    /* margin-left: 800px; */
+
+}
+
+.see{
+    padding-left: 20px;
+    height: 35px;
+    width: 340px;
+    float: right;
+    margin-right: 60px;
+}
+
+.coc{
+    margin-left: 650px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    color: green;
+    font-size: larger;
+}
+
+.key{
+    /* border: 2px solid red; */
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 400px;
+    /* background-image: -moz-linear-gradient(); */
+}
+
+.photo{
+    height: 400px;
+    width: 1475px;
+}
+
+.box{
+    /* border: 2px solid blue; */
+    height: 400px;
+    width: 130px;
+    float: right;  
+    /* justify-items: auto;
+    justify-content: space-around; */
+    padding-right: 12.7px;
+    border-radius: 18px;
+}
+
+.check{
+    height: 400px;
+    width: 130px;
+    /* justify-content: space-between; */
+    border-radius: 18px;
+}
+
+.top{
+    margin-top: 20px;
+    margin-left: 600px;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: coral;
+}
+
+.sar{
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 1450px;
+    height: 500px;
+}
+
+.nnn{
+    /* border: 2px solid blue; */
+    width: 350px;
+    height: 500px;
+    float: left;
+  margin-left: 7px;
+  border-radius: 10px;
+    
+}
+
+.chik{
+
+    width: 350px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.maxx{
+    border: 2px solid blue;
+    margin-top: 10px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 0 ,0;
+    background-color: aquamarine;
+}
+
+.lower{
+    margin-left: 560px;
+    font-style: italic;
+    color: chocolate;
+}
